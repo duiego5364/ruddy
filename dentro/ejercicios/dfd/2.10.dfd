@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+l1
+1
+0
+2
+l2
+1
+0
+2
+l3
+1
+0
+6
+1
+6
+ltotal
+1
+0
+4
+1
+57
+"ingrese la anchura del lugar donde se consume el agua: "
+5
+1
+2
+l1
+4
+1
+46
+"ingrese la longitud donde se consume el agua"
+5
+1
+2
+l2
+4
+1
+54
+"ingrese la altura del lugar donde se consume el agua"
+5
+1
+2
+l3
+6
+1
+6
+ltotal
+8
+l1*l2*l3
+4
+1
+53
+"el total consumo del lugar por el aguan es: ",ltotal
+1

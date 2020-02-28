@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+35
+'Introduzca el coste por kilómetro'
+5
+1
+1
+a
+4
+1
+38
+'Introduzca los kilómetros recorridos'
+5
+1
+1
+b
+6
+1
+1
+c
+3
+a*b
+4
+1
+22
+'El voleto costará ',c
+1

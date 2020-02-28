@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+42
+'Introduzca la cantidad ingresos por hora'
+5
+1
+1
+a
+4
+1
+31
+'Introduzca el total de horas '
+5
+1
+1
+b
+6
+1
+1
+c
+3
+a*b
+4
+1
+28
+'El monto a cobrar es de ',c
+1

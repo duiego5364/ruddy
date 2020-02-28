@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+l
+9
+'lapices'
+1
+m
+7
+'molde'
+1
+r
+7
+'regla'
+6
+3
+1
+t
+9
+'tijeras'
+1
+a
+9
+'alfiler'
+2
+ma
+9
+'maniqui'
+6
+3
+2
+p1
+16
+l+', '+m+' y '+r
+2
+p2
+9
+t+' y '+a
+1
+p
+2
+ma
+4
+1
+214
+'La prenda de vestir se confecciona de la siguiente manera : dibujando el diseño con '+p1+' seguidamente lo cortamos y enganchamos con '+p2+' por ultimos lo modelamos a un '+p+ ' y ya esta confeccionada la prenda.'
+1

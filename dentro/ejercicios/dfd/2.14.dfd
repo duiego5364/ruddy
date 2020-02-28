@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+chequeh
+1
+0
+7
+chequec
+1
+0
+7
+chequed
+1
+0
+6
+3
+7
+chequeF
+1
+0
+5
+diasv
+1
+0
+6
+photel
+1
+0
+6
+1
+7
+pcomida
+1
+0
+4
+1
+45
+"Ingrese los dias que estara en Santa Cruz: "
+5
+1
+5
+diasv
+4
+1
+41
+"ingrese el precio del hotel 
+por dia: "
+5
+1
+6
+photel
+4
+1
+58
+"ingrese cuando dinero diario necesitara para la comida: "
+5
+1
+7
+pcomida
+6
+3
+7
+chequeh
+12
+photel*diasv
+7
+chequec
+13
+pcomida*diasv
+7
+chequed
+9
+100*diasv
+6
+1
+7
+chequeF
+23
+chequeh+chequec+chequed
+4
+1
+80
+"El dinero que necesitara para todo el viaje solo en comida es: ",chequec," Bs."
+4
+1
+79
+"El dinero que necesitara para todo el viaje solo en hotel es: ",chequeh," Bs."
+4
+1
+81
+"El dinero que necesitara para todo el viaje en otros gastos es: ",chequed," Bs."
+4
+1
+48
+"Entonces el cheque total sera: ",chequeF," Bs."
+1

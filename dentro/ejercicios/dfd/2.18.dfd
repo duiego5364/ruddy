@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+h
+8
+'harina'
+1
+m
+13
+'mantequilla'
+1
+a
+8
+'azucar'
+6
+3
+1
+y
+8
+'huevos'
+1
+v
+10
+'vainilla'
+2
+ph
+20
+'polvo para hornear'
+6
+3
+7
+pastel1
+10
+h+' y '+ph
+7
+pastel2
+16
+m+', '+a+' y '+y
+7
+pastel3
+17
+pastel1+' con '+v
+6
+1
+6
+pastel
+15
+pastel2+pastel3
+4
+1
+306
+'El pastel tiene los siguientes ingredientes : '+h+', '+m+', '+a+', '+y+', '+v+' y '+ph+' y la preparacion es de la siguiente manera, precalentando '+pastel1+' enseguida batiendo '+pastel2+' despues revolver '+pastel3+' por ultimo mezclamos todo y lo horneamos durante 45 min. y ya esta listo el pastel!!!'
+1

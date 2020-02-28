@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+s
+1
+0
+2
+as
+1
+0
+4
+1
+32
+"Ingrese su sueldo mensual Bs: "
+5
+1
+1
+s
+6
+1
+2
+as
+13
+(s*60/100)*12
+4
+1
+33
+"Ahorraste en un año: ",as," Bs."
+1

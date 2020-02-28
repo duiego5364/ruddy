@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+llt
+1
+0
+3
+llp
+1
+0
+7
+llfinal
+1
+0
+4
+1
+41
+"Ingrese el tiempo que dura la llamada: "
+5
+1
+3
+llt
+4
+1
+45
+"Ingrese el costo por minuto de la llamada: "
+5
+1
+3
+llp
+6
+1
+7
+llfinal
+7
+llt*llp
+4
+1
+34
+"Tu costo de llamada es: ",llfinal
+1
